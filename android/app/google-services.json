@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509854375437",
+    "project_id": "missing-person-app-seeth-7a51a",
+    "storage_bucket": "missing-person-app-seeth-7a51a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509854375437:android:3d9786a5aa8487f0c3bf44",
+        "android_client_info": {
+          "package_name": "com.example.missing_person_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA0Un2a2ogx25fjbhv4LK2Tm0NALEQFPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
